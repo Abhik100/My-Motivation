@@ -4,6 +4,7 @@ Here’s the 'README.md' for my Motivation Quote Website GitHub repository:
 
 🌟 Motivation Quote Website
 
+Welcome to the Motivation Quote Website – a simple, beautifully designed web application that delivers a fresh dose of inspiration every time you visit or click a button. ✨
 A clean and elegant motivational quote web app that displays a new quote every time you click the **"New Quote"** button. You can also tweet the quote directly using the **"Tweet"** button.
 
 ---
